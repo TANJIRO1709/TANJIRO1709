@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://tanjiro1709.io)
+![mario](https://github.com/user-attachments/assets/2726f9cb-87ec-429e-aafb-89b3e3fb6c16)
 <h1 align="center">Greetings! 👋, I'm Sujal Kumar Agarwal</h1>
 <h3 align="center">A versatile tech enthusiast with a strong foundation in full-stack web development, a knack for competitive programming in C++ , and a burning passion for cloud technologies and AI</h3>
 <img align="right" alt=“coding” width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
